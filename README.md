@@ -2,14 +2,13 @@
 
 ### Discussions
 
-Feature Requests, Questions/Answers, General Discussion.
-
+Feature Requests, Questions/Answers, General Discussion.  
 If a feature request is accepted it will be converted to an Issue.
 
 
 ### Issues
 
-All open work items (bugs, features, etc).
+All open work items (bugs, features, etc).  
 Direct bug reports go here.
 
 The Milestones sub-tab can be viewed to see how many work items are still in-progress for a release version.
@@ -28,5 +27,5 @@ Roadmap of all past/future release versions and their associated work items.
 
 
 ### Discord (external link)
-If you prefer real-time communication, a discord server is available here:
+If you prefer real-time communication, a discord server is available here:  
 abc.xyz
