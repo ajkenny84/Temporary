@@ -27,8 +27,10 @@ Roadmap of all past/future release versions and their associated work items.
 
 
 ### External Links
-If you prefer real-time communication, a discord server is available here (however, all bugs/features are still tracked here on github):  
-abc.xyz
+If you prefer real-time communication, a discord server is available here:
+abc.xyz  
+(However, all bugs/features are still tracked on github)
+
 
 Steam store page is here:  
 abc.xyz
