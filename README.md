@@ -25,3 +25,8 @@ Roadmap of all past/future release versions and their associated work items.
 ### Wiki
 
 ??
+
+
+### Discord (external link)
+If you prefer real-time communication, a discord server is available here:
+abc.xyz
