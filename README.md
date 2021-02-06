@@ -2,19 +2,21 @@
 
 ### Discussions
 
-Feature requests and general discussion go here.
+Feature Requests / Questions/Answers / General Discussion.
 
-If accepted, the feature request will be moved to Issues.
+If a feature request is accepted it will be converted to an Issue.
 
 
 ### Issues
 
 All open work items (bugs, features, etc).
+Direct bug reports go here.
+If you have a feature request, please start a thread in Discussions.
 
 
 ### Projects
 
-Go here to view all release versions with associated work items.
+Roadmap of all past/future release versions and their associated work items.
 
 
 ### Wiki
