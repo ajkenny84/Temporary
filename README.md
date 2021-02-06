@@ -1,14 +1,22 @@
 # Navigation
 
-Discussions
-  Feature requests and general discussion go here.
-  If accepted, the feature request will be moved to Issues.
+### Discussions
 
-Issues
-  All open work items (bugs, features, etc).
+Feature requests and general discussion go here.
 
-Projects
-  Go here to view all release versions with associated work items.
+If accepted, the feature request will be moved to Issues.
 
-Wiki
-  ??
+
+### Issues
+
+All open work items (bugs, features, etc).
+
+
+### Projects
+
+Go here to view all release versions with associated work items.
+
+
+### Wiki
+
+??
