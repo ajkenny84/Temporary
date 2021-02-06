@@ -1,5 +1,14 @@
-# Temporary
-Temporary testing grounds
+# Navigation
 
+Discussions
+Feature requests and general discussion go here.
+If accepted, the feature request will be moved to Issues.
 
-words go here
+Issues
+All open work items (bugs, features, etc).
+
+Projects
+Go here to view all release versions with associated work items.
+
+Wiki
+??
