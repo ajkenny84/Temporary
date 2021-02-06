@@ -2,7 +2,7 @@
 
 ### Discussions
 
-Feature Requests / Questions/Answers / General Discussion.
+Feature Requests, Questions/Answers, General Discussion.
 
 If a feature request is accepted it will be converted to an Issue.
 
@@ -11,6 +11,7 @@ If a feature request is accepted it will be converted to an Issue.
 
 All open work items (bugs, features, etc).
 Direct bug reports go here.
+The Milestones sub-tab can be viewed to see how many work items are still in-progress for a release version.
 If you have a feature request, please start a thread in Discussions.
 
 
