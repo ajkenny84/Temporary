@@ -26,6 +26,9 @@ Roadmap of all past/future release versions and their associated work items.
 ??
 
 
-### Discord (external link)
+### External Links
 If you prefer real-time communication, a discord server is available here:  
+abc.xyz
+
+Steam store page is here:  
 abc.xyz
